@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Manoj S
 
-<!--
-**manojunicorn/manojunicorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+I'm passionate about Cloud Computing, DevOps, and Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Linux
+- Git & GitHub
+- AWS
+- Docker
+- Kubernetes
+- Jenkins
+- Bash Scripting
+
+### 🌱 Currently Learning
+- AWS Cloud
+- Docker
+- Kubernetes
+- CI/CD Pipelines
+- Terraform
+
+### 📂 Projects
+- AWS Static Website Hosting
+- Dockerized Web Application
+- Jenkins CI/CD Pipeline
+- Kubernetes Deployment
+
+### 🎯 Goal
+To start my career as a Cloud & DevOps Engineer and continuously improve my skills.
+
+### 📫 Connect With Me
+- LinkedIn: Add your LinkedIn URL here
+- Email: Your email
